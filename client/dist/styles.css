@@ -1,0 +1,175 @@
+.bg-body {
+    background-color:rgba(191, 246, 255);
+    text-align: center;
+}
+
+.divLogin {
+
+    background-color: #FFFFFF;
+    width: 600px;
+    height: 400px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    border-radius: 25px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #FFFFFF;
+}
+
+.logoImage {
+
+    width: 500px;
+    height: auto;
+    position: fixed;
+    top: 200px;
+    left: 50%;
+    transform: translate(-50%, -0%);
+}
+
+.cardText {
+
+    color: #111;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px
+    font-weight: 300;
+    line-height: 32px;
+    height: 100px;
+    text-align: center;
+}
+.upload-icon:hover .fa-icon {
+    color: rgb(110, 195, 249);
+}
+
+.fa-icon {
+    color: rgb(1, 88, 142);
+}
+
+.imgLike {
+
+    width: 30px;
+    height: auto;
+}
+
+.giftImage {
+
+    width: 800px;
+    height: auto;
+    position: fixed;
+    top: 10%;
+    left: 0%;
+    transform: translate(-0%, -10%);
+}
+
+.floatRegister {
+
+    float: left;
+}
+
+.divLeft {
+
+    width: 40%;
+    float: left;
+}
+
+.divRight {
+
+    width: 60%;
+    float: right;
+}
+
+.divCenter {
+
+    position: fixed;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -30%);
+}
+
+.divDeals {
+
+    background-color: #00000050;
+    width: 1000px;
+    height: 550px;
+    position: fixed;
+    top: 600px;
+    left: 50%;
+    transform: translate(-50%, -280px);
+    padding: 20px;
+    border-radius: 25px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: white;
+}
+
+.cardDiv {
+
+    display: inline-block;
+}
+
+.demoSpan {
+
+    color: black;
+    padding: 10px;
+}
+
+.headerSpan {
+
+    color: white;
+    padding: 10px;
+}
+
+.divImage {
+
+    object-fit: cover;
+    width: 250px;
+    height: 105px;
+    margin-top: 10px;
+}
+
+ .popover {
+    width: 300px !important;
+    max-width: 300px !important;
+    height: 200px !important;
+    max-height: 200px !important;
+ }
+
+.divPopover {
+
+    object-fit: cover;
+    width: 600px;
+    height: 250px;
+    margin-top: 10px;
+}
+
+.productImage {
+
+    object-fit: cover;
+    width:100px;
+    height:100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.newPrice {
+
+    font-size: 30px;
+    color: red;
+}
+
+.votes {
+    font-size: 20px;
+}
+
+.oldPrice {
+
+    font-size: 20px;
+    text-decoration: line-through;
+}
+
+.test{
+    color:rgba(191, 246, 255);
+}
